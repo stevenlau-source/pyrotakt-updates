@@ -1,0 +1,19 @@
+{
+  "schema": 1,
+  "latestVersion": "1.6.1-beta.1",
+  "latestBuild": 1,
+  "minimumVersion": "1.6.0",
+  "mandatory": false,
+  "channel": "beta",
+  "android": {
+    "enabled": true,
+    "assetName": "PyroTakt-1.6.1-beta.1-android.apk"
+  },
+  "windows": {
+    "enabled": true,
+    "assetName": "PyroTakt-1.6.1-beta.1-windows-setup.exe"
+  },
+  "releaseNotes": [
+    "Test des neuen PyroTakt-Updatesystems."
+  ]
+}
