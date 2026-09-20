@@ -1,20 +1,22 @@
 {
   "schema": 1,
-  "latestVersion": "1.6.1-beta.1",
-  "latestBuild": 25,
-  "releaseTag": "v1.6.1-beta.1",
+  "latestVersion": "1.6.1-beta.2",
+  "latestBuild": 26,
+  "releaseTag": "v1.6.1-beta.2",
   "minimumVersion": "1.6.0",
   "mandatory": false,
   "channel": "beta",
   "android": {
     "enabled": true,
-    "assetName": "PyroTakt-1.6.1-beta.1-android.apk"
+    "assetName": "PyroTakt-1.6.1-beta.2-android.apk"
   },
   "windows": {
     "enabled": true,
-    "assetName": "PyroTakt-1.6.1-beta.1-windows-setup.exe"
+    "assetName": "PyroTakt-1.6.1-beta.2-windows-setup.exe"
   },
   "releaseNotes": [
-    "Test des neuen PyroTakt-Updatesystems."
+     "COBRA-Modul- und Channel/Cue-Zuordnung korrigiert.",
+    "COBRA-Angaben und Neigungswinkel im PDF ergänzt.",
+    "Exportbereich überarbeitet."
   ]
 }
