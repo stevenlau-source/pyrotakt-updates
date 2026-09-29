@@ -1,22 +1,28 @@
 {
   "schema": 1,
-  "latestVersion": "1.6.1-beta.2",
-  "latestBuild": 26,
-  "releaseTag": "v1.6.1-beta.2",
+  "latestVersion": "1.6.2-beta.3",
+  "latestBuild": 27,
+  "releaseTag": "v1.6.2-beta.3",
   "minimumVersion": "1.6.0",
   "mandatory": false,
   "channel": "beta",
   "android": {
     "enabled": true,
-    "assetName": "PyroTakt-1.6.1-beta.2-android.apk"
+    "assetName": "PyroTakt-1.6.2-beta.3-android.apk"
   },
   "windows": {
     "enabled": true,
-    "assetName": "PyroTakt-1.6.1-beta.2-windows-setup.exe"
+    "assetName": "PyroTakt-1.6.2-beta.3-windows-setup.exe"
   },
   "releaseNotes": [
-     "COBRA-Modul- und Channel/Cue-Zuordnung korrigiert.",
-    "COBRA-Angaben und Neigungswinkel im PDF ergänzt.",
-    "Exportbereich überarbeitet."
+     "E-Zünder-Längen und Verlängerungsdraht direkt im Zündplan",
+    "Materialbedarf wird automatisch aus dem Zündplan abgeleitet",
+    "Globaler Auto-Zeit-Modus und manuelle Triggerzeiten",
+    "Hundertstelsekunden-Unterstützung",
+    "Kanalblock-Bearbeitung und Drag & Drop stabilisiert",
+    "WLAN-/Drive-Sync ohne unnötiges Ping-Pong",
+    "Such-/Grauschleier-Bug behoben",
+    "COBRA-Export um fehlende Kopfzeilen ergänzt",
+    "Weitere PDF-, UI- und Stabilitätskorrekturen"
   ]
 }
